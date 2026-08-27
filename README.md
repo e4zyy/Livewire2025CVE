@@ -6,7 +6,7 @@ Automated vulnerability scanner for detecting CVE-2025-54068 in Laravel applicat
 ## Overview
 This tool scans a list of websites for indicators of the critical Livewire remote code execution vulnerability (CVE-2025-54068, CVSS 9.2). Vulnerable sites are separated into `vuln.txt` while safe sites are saved to `safe.txt`.
 
-**Coded by z0d131482700x Persephrak CyberSecurity Team**
+**Coded by Xer0TLabs x Persephrak Decentralized Syndicate**
 
 ## Features
 - Multi-threaded scanning for performance
